@@ -37,27 +37,17 @@ This project aims to predict airline profitability using Machine Learning techni
 
 📊 Dataset Description
 
-The dataset includes historical flight performance data with the following key attributes:
-
-Flight Number – Unique identifier for each flight.
-
-Delay (Minutes) – Flight delays impacting operational efficiency.
-
-Aircraft Utilization (Hours/Day) – How efficiently aircraft are used.
-
-Revenue (USD) – Total revenue generated per flight.
-
-Operating Cost (USD) – Total cost incurred for each flight.
-
-Profit (USD) – Revenue - Operating Cost.
-
-Load Factor (%) – Seat occupancy percentage.
-
-Fuel Efficiency (ASK) – Cost of fuel per Available Seat Kilometer.
-
-Profit Margin (%) – Ratio of profit to revenue.
-
-Is_Holiday_Season – 1 if the flight occurs during a peak season.
+* The dataset includes historical flight performance data with the following key attributes:
+* Flight Number – Unique identifier for each flight.
+* Delay (Minutes) – Flight delays impacting operational efficiency.
+* Aircraft Utilization (Hours/Day) – How efficiently aircraft are used.
+* Revenue (USD) – Total revenue generated per flight.
+* Operating Cost (USD) – Total cost incurred for each flight.
+* Profit (USD) – Revenue - Operating Cost.
+* Load Factor (%) – Seat occupancy percentage.
+* Fuel Efficiency (ASK) – Cost of fuel per Available Seat Kilometer.
+* Profit Margin (%) – Ratio of profit to revenue.
+* Is_Holiday_Season – 1 if the flight occurs during a peak season.
 
 📌 Target Variable: Profit (USD)
 
@@ -66,88 +56,55 @@ Is_Holiday_Season – 1 if the flight occurs during a peak season.
 📌 Model Selection
 
 We implemented the following models and chose the best-performing one:
+- Linear Regression ✅
+- Random Forest Regressor ✅
+- XGBoost Regressor ✅
+- LightGBM Regressor ✅
 
-Linear Regression ✅
-
-Random Forest Regressor ✅
-
-XGBoost Regressor ✅
-
-LightGBM Regressor ✅
-
-Stacked Model (Best Performance) 🚀
+Stacked Model (Best Performance)
 
 📊 Model Performance
 
-Model
+* Model
 
-MAE (Lower Better)
+  - MAE (Lower Better)
+  - RMSE (Lower Better)
+  - R² Score (Higher Better)
+  - LightGBM (Before Tuning)
+  - 94.27
+  - 120.18
+  - 0.999956
 
-RMSE (Lower Better)
+Stacked Model (Final)
 
-R² Score (Higher Better)
-
-LightGBM (Before Tuning)
-
-94.27
-
-120.18
-
-0.999956
-
-Stacked Model (Final) 🚀
-
-25.33 ✅
-
-34.89 ✅
-
-0.999996 ✅
+  - 25.33 ✅
+  - 34.89 ✅
+  - 0.999996 ✅
 
 🔹 Feature Importance (SHAP Analysis): Revenue, Cost Efficiency, Delays, Fuel Cost are top contributors.
 
-📈 Visualizations & Insights
+* 📈 Visualizations & Insights
+* 📊 Exploratory Data Analysis (EDA):
 
-📊 Exploratory Data Analysis (EDA):
-
-Histogram & Box Plots – Check data distribution & outliers.
-
-Scatter Plots – Analyze relationships (e.g., Revenue vs. Profit).
-
-SHAP Feature Importance – Explainability of ML predictions.
+  - Histogram & Box Plots – Check data distribution & outliers.
+  - Scatter Plots – Analyze relationships (e.g., Revenue vs. Profit).
+  - SHAP Feature Importance – Explainability of ML predictions.
 
 📊 Top 5 Analysis:
 
-Category
+* Category
+**Top 5 Flight Numbers**
 
-Top 5 Flight Numbers
+  - Key Metric
 
-Key Metric
+    - Most Profitable:         FL089, FL011, FL422, FL892, FL629        [Highest Profit]
+    - Least Profitable:        FL694, FL592, FL065, FL107, FL108        [Loss-Making Flights]
+    - Most Delayed:            FL812, FL839, FL829, FL083, FL818        [Longest Delays]
+    - Most Efficient Flights:  FL422, FL841, FL011, FL576, FL147        [Highest Profit Margin]
 
-Most Profitable
 
-FLXXX, FLXXX, FLXXX
 
-Highest Profit
-
-Least Profitable
-
-FLXXX, FLXXX, FLXXX
-
-Loss-Making Flights
-
-Most Delayed
-
-FLXXX, FLXXX, FLXXX
-
-Longest Delays
-
-Least Delayed
-
-FLXXX, FLXXX, FLXXX
-
-Most Efficient Flights
-
-🚀 How to Use This Repository?
+How to Use This Repository?
 
 Clone the Repository
 
