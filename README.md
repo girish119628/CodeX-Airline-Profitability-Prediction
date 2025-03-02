@@ -6,11 +6,11 @@ This project aims to predict airline profitability using Machine Learning techni
 
 📌 Key Features
 
-  ✅ Predicts Airline Profitability – Helps airlines maximize revenue & reduce costs.
-  ✅ Data-Driven Insights – Identifies factors affecting profit (Revenue, Delays, Costs, etc.).
-  ✅ Machine Learning Model – Stacked ensemble model for high accuracy.
-  ✅ SHAP Interpretability – Explains the impact of each feature on profitability.
-  ✅ Business Recommendations – Optimize flight schedules, fuel efficiency, and pricing strategies.
+1. Predicts Airline Profitability – Helps airlines maximize revenue & reduce costs.
+2. Data-Driven Insights – Identifies factors affecting profit (Revenue, Delays, Costs, etc.).
+3. Machine Learning Model – Stacked ensemble model for high accuracy.
+4. SHAP Interpretability – Explains the impact of each feature on profitability.
+5. Business Recommendations – Optimize flight schedules, fuel efficiency, and pricing strategies.
 
 📂 Repository Structure
 
