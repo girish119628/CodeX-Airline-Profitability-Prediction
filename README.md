@@ -92,6 +92,6 @@ Stacked Model (Final)
 |-------------------|------------------|-------------------------------------------------------|---------------------------------------------|
 | **Girish Kumar**  | Data Analyst     | [LinkedIn](https://www.linkedin.com/in/girish119628/) | [GitHub](https://github.com/girish119628)   |
 | **Komal Yadav**   | Python Developer | [LinkedIn](linkedin.com/in/komal-yadav-054b311b6)     | [GitHub](https://github.com/komal7-glitch)  |
-| **Rohith Katkuri**| Data Engineer    | [LinkedIn](https://linkedin.com/in/member3)           | [GitHub](https://github.com/member3)        |
+| **Rohith Katkuri**| Data Engineer    | [LinkedIn](https://linkedin.com/in/member3)           | [GitHub](https://github.com/RohithKatkuri)  |
 
 📌 **Feel free to connect with us!** 🚀 
