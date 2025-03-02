@@ -88,10 +88,10 @@ Stacked Model (Final)
 
 ## 👥 **Team CodeX - Members & Profiles**  
 
-| Name              | Role             | LinkedIn                                              | GitHub                                      |
-|-------------------|------------------|-------------------------------------------------------|---------------------------------------------|
-| **Girish Kumar**  | Data Analyst     | [LinkedIn](https://www.linkedin.com/in/girish119628/) | [GitHub](https://github.com/girish119628)   |
-| **Komal Yadav**   | Python Developer | [LinkedIn](linkedin.com/in/komal-yadav-054b311b6)     | [GitHub](https://github.com/komal7-glitch)  |
-| **Rohith Katkuri**| Data Engineer    | [LinkedIn](https://linkedin.com/in/member3)           | [GitHub](https://github.com/RohithKatkuri)  |
+| Name              | Role             | LinkedIn                                                    | GitHub                                      |
+|-------------------|------------------|-------------------------------------------------------------|---------------------------------------------|
+| **Girish Kumar**  | Data Analyst     | [LinkedIn](https://www.linkedin.com/in/girish119628/)       | [GitHub](https://github.com/girish119628)   |
+| **Komal Yadav**   | Python Developer | [LinkedIn](linkedin.com/in/komal-yadav-054b311b6)           | [GitHub](https://github.com/komal7-glitch)  |
+| **Rohith Katkuri**| Data Engineer    | [LinkedIn](https://www.linkedin.com/in/rohith-k-aa0568229/) | [GitHub](https://github.com/RohithKatkuri)  |
 
 📌 **Feel free to connect with us!** 🚀 
