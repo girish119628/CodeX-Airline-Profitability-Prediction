@@ -83,5 +83,5 @@ Stacked Model (Final)
 * Check the Business Report & Presentation in reports/
 
 # **Important Files Access from Google Drive**
-  - CSV file link: ()
-  - The Video Explanation link: (link in resources/Google_Drive_Link.txt)
+  - CSV file link: (https://drive.google.com/file/d/1vnko_xocyvYu1lmZT4LiSZyojX2UjATk/view?usp=drive_link)
+  - Video presentation link: ()
