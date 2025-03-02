@@ -12,29 +12,6 @@ This project aims to predict airline profitability using Machine Learning techni
 4. SHAP Interpretability – Explains the impact of each feature on profitability.
 5. Business Recommendations – Optimize flight schedules, fuel efficiency, and pricing strategies.
 
-📂 Repository Structure
-
-📂 CodeX  (Main Repository)
-│── 📁 data/               # CSV Datasets
-│   ├── flight_data.csv  
-│   ├── processed_data.csv  
-│
-│── 📁 notebooks/          # Jupyter Notebooks
-│   ├── CodeX.ipynb
-│
-│── 📁 reports/            # Presentations & Documentation
-│   ├── Business_Report.pdf
-│   ├── Airline_Profitability_Presentation.pptx
-│
-│── 📁 resources/          # Supporting Resources (e.g., video links)
-│   ├── README.md
-│   ├── Google_Drive_Link.txt  # Video Explanation Link
-│
-│── 📜 LICENSE             # Open-source License
-│── 📜 CONTRIBUTING.md      # Contribution Guidelines
-│── 📜 .gitignore          # Ignore unnecessary files (e.g., .DS_Store, .ipynb_checkpoints)
-│── 📜 README.md           # Project Overview
-
 📊 Dataset Description
 
 * The dataset includes historical flight performance data with the following key attributes:
@@ -103,24 +80,5 @@ Stacked Model (Final)
     - Most Efficient Flights:  FL422, FL841, FL011, FL576, FL147        [Highest Profit Margin]
 
 
-
-How to Use This Repository?
-
-Clone the Repository
-
-git clone https://github.com/your-username/CodeX.git
-cd CodeX
-
-Run Jupyter Notebook (Ensure Python & dependencies are installed)
-
-jupyter notebook
-
-Explore the Data & Models
-
-Open notebooks/CodeX.ipynb
-
-Run the model training & evaluation steps.
-
 Check the Business Report & Presentation in reports/
-
 Watch the Video Explanation (link in resources/Google_Drive_Link.txt)
