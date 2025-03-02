@@ -80,5 +80,8 @@ Stacked Model (Final)
     - Most Efficient Flights:  FL422, FL841, FL011, FL576, FL147        [Highest Profit Margin]
 
 
-Check the Business Report & Presentation in reports/
-Watch the Video Explanation (link in resources/Google_Drive_Link.txt)
+* Check the Business Report & Presentation in reports/
+
+# **Important Files Access from Google Drive**
+  - CSV file link: ()
+  - The Video Explanation link: (link in resources/Google_Drive_Link.txt)
