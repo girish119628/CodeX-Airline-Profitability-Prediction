@@ -85,3 +85,13 @@ Stacked Model (Final)
 # **Important Files Access from Google Drive**
   - CSV file link: (https://drive.google.com/file/d/1vnko_xocyvYu1lmZT4LiSZyojX2UjATk/view?usp=drive_link)
   - Video presentation link: (https://drive.google.com/file/d/1zPAUJJ1j8azaLeoDpz3m_nYfH8Z-XlYt/view?usp=drive_link)
+
+## 👥 **Team CodeX - Members & Profiles**  
+
+| Name              | Role             | LinkedIn                                              | GitHub                                      |
+|-------------------|------------------|-------------------------------------------------------|---------------------------------------------|
+| **Girish Kumar**  | Data Analyst     | [LinkedIn](https://www.linkedin.com/in/girish119628/) | [GitHub](https://github.com/girish119628)   |
+| **Komal Yadav**   | Python Developer | [LinkedIn](linkedin.com/in/komal-yadav-054b311b6)     | [GitHub](https://github.com/komal7-glitch)  |
+| **Rohith Katkuri**| Data Engineer    | [LinkedIn](https://linkedin.com/in/member3)           | [GitHub](https://github.com/member3)        |
+
+📌 **Feel free to connect with us!** 🚀 
